@@ -1,0 +1,2 @@
+# Machine-Learning-Segmentation-de-clients-avec-le-mod-le-RFM
+Ce projet vise à appliquer des techniques d'apprentissage non supervisé pour analyser et regrouper  les clients en fonction de leurs comportements d’achat. En utilisant le dataset Online Retail,  l'objectif est d'identifier des segments pertinents permettant d’améliorer les stratégies marketing et  d’offrir des recommandations personnalisées.
